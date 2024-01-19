@@ -1,5 +1,7 @@
 # Layout fragment
 
+## adaptive blocks with text and images
+
 - HTML
 - CSS
 
